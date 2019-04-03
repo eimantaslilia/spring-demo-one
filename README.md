@@ -1,8 +1,9 @@
 # spring-demo-one
 
-This is a demo to help me learn more about:  
-
+This demo helped me learn more about:  
+* IoC
+* Dependency Injection
 * Spring Container
 * Spring Beans, their Lifecycles and Scopes, custom methods
-* Dependency Injection with XML Configuration
+* Spring Configuration with XML
 * Constructor/Setter Injection
